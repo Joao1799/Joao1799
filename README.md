@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Sou João Victor - Engenheiro de Software | Full Stack</h1>
+<h1 align="left">👨🏽‍💻Olá! Sou João Victor - Engenheiro de Software | Full Stack💻</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h2 align="left">Tecnologias e Ferramentas</h2>
+<h2 align="left">✏️Tecnologias e Ferramentas🖥️</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="left">Redes Sociais📱</h2>
 
 ###
 
