@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FB8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
 📌Atuando como desenvolvedor Front-End  <br>
@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Joao1799&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117&locale=pt-br" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=FB8C00&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" />
 </div>
 
 ###
