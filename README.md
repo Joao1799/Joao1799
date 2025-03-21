@@ -30,10 +30,8 @@
 <h2 align="left">📱   Contatos :</h2>
 
 <div > 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-68240a197/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
   <a href = "mailto:joaovictoralves552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-68240a197/"> 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/joaovalvees/" target="_blank"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
  
