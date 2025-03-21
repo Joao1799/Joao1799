@@ -8,7 +8,7 @@
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 <h2 align="left">🖥️   Tecnologias e Ferramentas:</h2>
-##
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -27,17 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-
 <h2 align="left">📱   Contatos :</h2>
 
 <div > 
-  <a href = "mailto:joaovictoralves552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-68240a197/"> 
+  <a href = "mailto:joaovictoralves552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-68240a197/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/joaovalvees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href=""></a> 
-    
+</div>
 ##
  
 <h3 align="left">🔥   Status :</h3>
