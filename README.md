@@ -43,7 +43,7 @@
 
 <div align="center">
   <img width="49%" height="220px" style="display: inline-block;" src="https://streak-stats.demolab.com?user=Joao1799&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-  <img width="49%" height="200px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=FB8C00&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" />
+  <img width="49%" height="220px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=FB8C00&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" />
 </div>
 
 ###
