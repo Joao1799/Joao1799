@@ -53,7 +53,7 @@
 
 
 
- <div align="center">
+ <div align="center" display=flex flex-direction=row>
 <br><p align="centre" color=FB8C00><b>Contagem de visitantes</b></p>  
 <p align="center" color=FB8C00><img align="center" src="https://profile-counter.glitch.me/{Joao1799}/count.svg" /></p> 
 <br>
