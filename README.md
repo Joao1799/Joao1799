@@ -54,11 +54,11 @@
 
 
  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre" color=FB8C00><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joao1799}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB8C00&height=120&section=footer"/>
 
 
 </div>
