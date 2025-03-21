@@ -7,7 +7,7 @@
 📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de  Brasília - (UCB). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-<h2 align="left">✏️Tecnologias e Ferramentas🖥️</h2>
+<h2 align="left">🖥️   Tecnologias e Ferramentas:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
@@ -28,7 +28,7 @@
 </div>
 
 
-#####  Contatos 📱:
+<h2 align="left">📱   Contatos :</h2>
 
 <div > 
   <a href = "mailto:joaovictoralves552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -40,7 +40,7 @@
     
 ##
  
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Status :</h3>
 
 ###
 
