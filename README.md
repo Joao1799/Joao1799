@@ -45,8 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joao1799&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=FB8C00&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" />
+  <img width="50%" height="220px" src="https://streak-stats.demolab.com?user=Joao1799&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  <img width="50%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&layout=compact&hide_border=false&border_radius=5&title_color=FB8C00&text_color=FFFFFF&bg_color=0d1117&locale=pt-br" />
 </div>
 
 ###
@@ -55,7 +55,7 @@
 
  <div align="center">
 <br><p align="centre" color=FB8C00><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joao1799}/count.svg" /></p> 
+<p align="center" color=FB8C00><img align="center" src="https://profile-counter.glitch.me/{Joao1799}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB8C00&height=120&section=footer"/>
