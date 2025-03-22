@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FB8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá👋Sou+o+João!;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌Atuando como desenvolvedor Front-End!  <br>
+📌Atuando como desenvolvedor Full-Stack!  <br>
 📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de  Brasília - (UCB). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
