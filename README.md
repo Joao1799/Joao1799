@@ -14,9 +14,9 @@
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60"/>
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
