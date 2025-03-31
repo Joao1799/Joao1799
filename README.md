@@ -12,9 +12,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
   <img width="12" />
