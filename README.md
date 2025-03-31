@@ -9,17 +9,19 @@
 
 <h2 align="left">🖥️   Tecnologias e Ferramentas:</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50"/>
-  <img src="https://skillicons.dev/icons?i=prisma" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo" /></td>
+    <td align="center" width="11%"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react logo" width="50" height="50"/></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" /></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="nodejs logo" /></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo" /></td>
+    <td align="center" width="11%"><img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" /></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" /></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" /></td>
+  </tr>
+</table>
 
 <h2 align="left">📱   Contatos :</h2>
 
