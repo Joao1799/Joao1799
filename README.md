@@ -4,7 +4,7 @@
 
 ##
 📌Atuando como desenvolvedor Full-Stack!  <br>
-📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de  Brasília - (UCB). <br>
+📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de  Brasília - (UCB). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 <h2 align="left">🖥️   Tecnologias e Ferramentas:</h2>
